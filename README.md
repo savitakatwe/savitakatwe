@@ -12,5 +12,5 @@
 - 💬 Ask me about **MERN STACK**.
 - 📫 How to reach me: **savitamerwade04@gmail.com**
 - 💼 Job interests: Software Engineer, Frontend Engineer, or Backend Engineer (Intern or Junior level).
-- 😄 Pronouns: She/Her
+
 
