@@ -11,6 +11,6 @@
 - 🤔 I’m looking for help with open source projects, hackathons, internships, and MERN developer opportunities.
 - 💬 Ask me about **MERN STACK**.
 - 📫 How to reach me: **savitamerwade04@gmail.com**
-- 💼 Job interests: Software Engineer, Frontend Engineer, or Backend Engineer (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Frontend Engineer, or Backend Engineer.
 
 
